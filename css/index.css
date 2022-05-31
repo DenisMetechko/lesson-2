@@ -1,0 +1,36 @@
+@import url('../css/landing.css');
+
+* {
+  margin: 0;
+  list-style: none;
+}
+.container {
+  max-width: 1170px;
+  background-color: wheat;
+  margin: auto;
+}
+
+/* * {
+}
+.text * {
+  color: coral;
+}
+input[type='checkbox'] {
+  display: block;
+}
+input[type='range'] {
+  display: inline-block;
+}
+.block {
+  width: 500px;
+  max-width: 1100px;
+  min-width: 800px;
+  height: 200px;
+  background-color: cornflowerblue;
+}
+.block-elem {
+  width: auto;
+  width: 50%;
+  height: 100px;
+  background-color: rgb(145, 132, 132);
+} */

@@ -1,0 +1,32 @@
+.header {
+}
+.title {
+  margin-bottom: 50px;
+}
+.header-card {
+  width: 300px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: auto;
+}
+.header-card-content {
+}
+.header-card-title {
+  margin-bottom: 20px;
+}
+.header-card-subtitle {
+  margin-bottom: 10px;
+}
+.header-card-text {
+  margin-bottom: 50px;
+}
+.header-card-btn {
+}
+.contact-block__1 {
+  display: inline-block;
+  margin-right: 20px;
+}
+.contact-block__2 {
+  display: inline-block;
+  /* margin-left: 20px; */
+}
