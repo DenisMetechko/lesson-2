@@ -2,11 +2,17 @@
 
 * {
   margin: 0;
+  padding: 0;
   list-style: none;
 }
+section {
+  padding: 50px 0;
+  background-color: antiquewhite;
+}
+
 .container {
   max-width: 1170px;
-  background-color: wheat;
+  padding: 0 15px;
   margin: auto;
 }
 
@@ -34,3 +40,9 @@ input[type='range'] {
   height: 100px;
   background-color: rgb(145, 132, 132);
 } */
+.contact {
+  background-color: #fff;
+}
+.footer {
+  padding: 50px 0;
+}
