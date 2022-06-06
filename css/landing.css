@@ -7,7 +7,10 @@
   margin-bottom: 30px;
 }
 .header-card {
+  /* display: none; */
+  /* visibility: hidden; */
   width: 300px;
+  height: 320px;
   /* margin-left: auto;
   margin-right: auto; */
   margin: auto;
@@ -17,6 +20,7 @@
   /* border-radius: 50%; */
   /* border-radius: 10px 0 10px 0; */
   border-radius: 20px;
+  overflow: auto;
 }
 .header-card-content {
   padding: 20px;
